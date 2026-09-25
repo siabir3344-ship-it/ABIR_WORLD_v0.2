@@ -9,8 +9,8 @@ Open Termux and run the following commands:
 
 ```bash
 rm -rf ABIR_WORLD
-git clone https://github.com/siabir3344-ship-it/ABIR_WORLD.git
-cd ABIR_WORLD
+git clone https://github.com/siabir3344-ship-it/ABIR_WORLD_v0.2.git
+cd ABIR_WORLD_v0.2
 python ABIR_WORLD_v0.2.py
 ```
 
