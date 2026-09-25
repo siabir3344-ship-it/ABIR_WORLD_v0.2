@@ -85,4 +85,4 @@ If you find the project useful, consider giving the repository a ⭐ and sharing
 
 ![Screenshot](Screenshot_20260926_022349.jpg)
 
-![Screenshot](Screenshot_20260923_221605.png)
+![Screenshot](Screenshot_20260926_022254.png)
