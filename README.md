@@ -83,6 +83,6 @@ If you find the project useful, consider giving the repository a ⭐ and sharing
 
 ## 📸 Screenshots
 
-![Screenshot](Screenshot_20260923_214545.png)
+![Screenshot](Screenshot_20260926_022349.jpg)
 
 ![Screenshot](Screenshot_20260923_221605.png)
